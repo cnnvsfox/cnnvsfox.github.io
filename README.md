@@ -1,2 +1,0 @@
-# cnnvsfox.github.io
-website
